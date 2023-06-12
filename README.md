@@ -15,6 +15,7 @@ cd healspan
 
 3. Run the command
    
+   cd myproject
    python manage.py runserver
 
 4. Now open frontend folder in a new window.
